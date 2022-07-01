@@ -1,0 +1,32 @@
+|======================================================================================================================|
+|             Les regles du jeu Fanorona !!!!!                                                                         |
+|======================================================================================================================|
+|   Il se joue avec un tableau (lakapanorona, prononce lakapanourne) de 5 rangs et 9 colonnes et des pierres           |
+|  (vato, prononce vat) de 2 couleurs (22 de chaque) avec un trou central. Le but du jeu est de capturer               |
+|  toutes les pierres adverses. Une pierre ennemie est capturee en s'en approchant (percussion : situation 1;          |
+|  voir schema) ou en s'en eloignant (aspiration : situation 2). Il doit donc y avoir une case libre devant            |
+|  ou derriere la pierre a avancer. Le joueur capture alors toutes les pierres adverses situees sur l'axe sur          |
+|  lequel il a fait avancer ou reculer sa pierre. Une fois les pierres ennemies capturees, le joueur ayant             |
+|  le trait peut capturer d'autres series de pierres au meme tour si d'autres possibilites de capture                  |
+|  se presentent a lui, a condition que ses captures se fassent :                                                      |
+|                                                                                                                      |
+|     Dans un sens different a celui joue precedemment                                                                 |
+|     Par un point par lequel le joueur n'est pas passe ce tour-ci                                                     |
+|     Une fois ses captures effectuees, le joueur laisse le trait a son adversaire.                                    |
+|                                                                                                                      |
+|     Contrairement aux dames, les joueurs ne sont pas obliges de capturer si l'occasion se presente, et peuvent       | 
+|     jouer un coup strategique sans capture directe, dans le cas ou il a deja fait une capture lors de son tour.      |
+|     Mais à chaque tour, le joueur est oblige de capturer au moins une fois s'il y a une ou des occasions 	       |
+|     possibles.                                                                                                       |
+|  Il arrive que le joueur ait pour un meme mouvement plusieurs pierres adverses capturables, celles en avant et       |
+|  celles en arriere (situation 3). Il doit alors choisir entre les deux series. Et pour finir, chaque joueur          |
+|  est oblige de jouer, meme si le tour suivant le mene forcement a un coup perdant.                                   |
+|     - Chaque pion peut se daplacer dans toutes les directions, en suivant le trace des lignes, de son point          |
+|          d'origine vers une intersection adjacente libre.                                                            |
+|     - Un pion ne peut sauter au dessus d'un autre.                                                                   |
+|     - La prise de pion, quand elle est possible, doit etre obligatoirement jouee.                                    |
+|     - Un pion peut effectuer une prise si un ou plusieurs pions adverses se trouvent sur sa Iigne de                 |
+|         deplacement et que le pion joue vient au contact des pions adverses, ou s'en eloigne.                        |
+|     - Tout pion capture est enleve du jeu.                                                                           |
+|                                                                                                                      |
+|======================================================================================================================|
